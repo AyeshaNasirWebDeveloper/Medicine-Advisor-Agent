@@ -28,7 +28,8 @@ An AI-powered virtual assistant for medical stores that recommends appropriate o
 
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+source venv/bin/activate  # For Linux/Mac
+venv\Scripts\activate # For Windows
 ```
 
 ## Install dependencies:
